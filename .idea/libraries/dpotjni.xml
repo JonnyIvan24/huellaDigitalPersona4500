@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="dpotjni">
+    <CLASSES>
+      <root url="jar://C:/Program Files/Java/jdk1.8.0_191/jre/lib/ext/dpotjni.jar!/" />
+      <root url="jar://C:/Program Files/Java/jdk1.8.0_191/jre/lib/ext/dpotapi.jar!/" />
+      <root url="jar://C:/Program Files/Java/jdk1.8.0_191/jre/lib/ext/dpfpverification.jar!/" />
+      <root url="jar://C:/Program Files/Java/jdk1.8.0_191/jre/lib/ext/dpfpenrollment.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/src" />
+    </SOURCES>
+  </library>
+</component>
